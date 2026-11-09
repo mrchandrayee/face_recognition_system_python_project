@@ -1,0 +1,1 @@
+__pycache__/\n.venv/\n*.pyc\nface_cache.pkl\nregistered_faces/*\n!registered_faces/.gitkeep\n*.mp4\n

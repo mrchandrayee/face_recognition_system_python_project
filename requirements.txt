@@ -1,0 +1,1 @@
+numpy>=1.24\nopencv-python>=4.8\ninsightface>=0.7.3\nonnxruntime>=1.16\n
